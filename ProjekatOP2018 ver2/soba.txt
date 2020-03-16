@@ -1,0 +1,3 @@
+111222|12|2|apartman|da|da|da|ne|1000|
+111333|13|3|apartman|ne|da|da|da|1200|
+111444|14|1|soba|ne|ne|ne|da|900|

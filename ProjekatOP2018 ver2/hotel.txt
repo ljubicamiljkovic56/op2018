@@ -1,0 +1,7 @@
+111111|Lux Hotel|Beograd|13|da|da|1034|5|
+222222|City Hotel|Novi Sad|15|ne|da|1000|4|
+333333|King Hotel|Zemun|20|ne|ne|900|3|
+444444|Pop Hotel|Zrenjanin|30|da|da|1000|5|
+555555|Kiki Hotel|Kikinda|11|ne|ne|800|3|
+999999|Key Hotel|Smederevo|20|ne|ne|800|3|
+555555|Kiki Hotel|Kikinda|30|ne|ne|800|4|
